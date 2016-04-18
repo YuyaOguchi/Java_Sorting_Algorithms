@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=selSort
+comment1.target=void\ SelectionSort(int[])
+comment1.text=Selection\ sort\n\n\ \ \ \ takes\ the\ next\ number\ in\ array\ and\ read\ through\ rest\ of\ the\ array\ \n\ \ \ \ to\ find\ a\ lowest\ value,\ and\ then\ switch\ that\ next\ number\ with\ the\ lowest\ value.\n\ \ \ \ keep\ going\ until\ the\ array\ hit\ to\ the\ last\ number\ and\ it\ is\ done\n\n
+comment2.params=insSort
+comment2.target=void\ insertionSort(int[])
+comment2.text=Insertion\ sort\n\n\ \ \ \ go\ through\ each\ number\ in\ the\ array\ and\ switch\ the\ number\ with\ the\ next\ number\ with\ a\ lower\ value\n\ \ \ \ continue\ until\ the\ last\ value\ \n\n
+numComments=3
